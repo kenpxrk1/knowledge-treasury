@@ -4,6 +4,7 @@
 - Исчерпывающее руководство по одномерным массивам в Java - [Хабр](https://habr.com/ru/articles/753638/#1)
 - Фундаментальное руководство по пакетам в Java - [Хабр](https://habr.com/ru/articles/755654/)
 - Методы equals & hashCode: практика использования - [JavaRush](https://javarush.com/groups/posts/2179-metodih-equals--hashcode-praktika-ispoljhzovanija)
+- Java: передача параметров по значению или по ссылке - [Хабр](https://habr.com/ru/amp/publications/551026/)
 ------------------------------------------------------------------------------------------------------------
   
 ### Переводы на Хабр по технологиям
