@@ -6,6 +6,7 @@
 - Java: передача параметров по значению или по ссылке - [Хабр](https://habr.com/ru/amp/publications/551026/)
 - Абстрактные классы и интерфейсы в Java - [Хабр](https://habr.com/ru/companies/otus/articles/707762/)
 - Избавляемся от мусора в Java - [Хабр](https://habr.com/ru/companies/otus/articles/553996/)
+- Пришел, увидел, обобщил: погружаемся в Java Generics [Хабр](https://habr.com/ru/companies/sberbank/articles/416413/)
 - Методы equals & hashCode: практика использования - [JavaRush](https://javarush.com/groups/posts/2179-metodih-equals--hashcode-praktika-ispoljhzovanija)
 ------------------------------------------------------------------------------------------------------------
   
