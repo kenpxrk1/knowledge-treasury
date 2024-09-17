@@ -8,6 +8,7 @@
 - Избавляемся от мусора в Java - [Хабр](https://habr.com/ru/companies/otus/articles/553996/)
 - Пришел, увидел, обобщил: погружаемся в Java Generics [Хабр](https://habr.com/ru/companies/sberbank/articles/416413/)
 - Методы equals & hashCode: практика использования - [JavaRush](https://javarush.com/groups/posts/2179-metodih-equals--hashcode-praktika-ispoljhzovanija)
+- SQL & Hibernate - [JavaRush](https://javarush.com/quests/QUEST_SQL_HIBERNATE_PUBLIC)
 - Глубокое погружение в Stream API Java: Понимание и Применение [struchkov.dev](https://struchkov.dev/blog/ru/java-stream-api)
 
 ------------------------------------------------------------------------------------------------------------
