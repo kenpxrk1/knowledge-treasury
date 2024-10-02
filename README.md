@@ -8,7 +8,6 @@
 - Избавляемся от мусора в Java - [Хабр](https://habr.com/ru/companies/otus/articles/553996/)
 - Пришел, увидел, обобщил: погружаемся в Java Generics [Хабр](https://habr.com/ru/companies/sberbank/articles/416413/)
 - Методы equals & hashCode: практика использования - [JavaRush](https://javarush.com/groups/posts/2179-metodih-equals--hashcode-praktika-ispoljhzovanija)
-- SQL & Hibernate - [JavaRush](https://javarush.com/quests/QUEST_SQL_HIBERNATE_PUBLIC)
 - Глубокое погружение в Stream API Java: Понимание и Применение [struchkov.dev](https://struchkov.dev/blog/ru/java-stream-api)
 
 ------------------------------------------------------------------------------------------------------------
@@ -29,6 +28,8 @@
 
 ### SQL & HIBERNATE & JDBC
 - SQL тренажер + гайды + сендбокс - https://sql-academy.org/ru
+- SQL & Hibernate - [JavaRush](https://javarush.com/quests/QUEST_SQL_HIBERNATE_PUBLIC)
+- Callable Statement & Батчинг запросов - [JavaRush](https://javarush.com/quests/lectures/questhibernate.level08.lecture02)
 
 ------------------------------------------------------------------------------------------------------------
   
@@ -44,7 +45,8 @@
 ------------------------------------------------------------------------------------------------------------
 
 ### Maven & Gradle
-- Стартовый гайд по мавену - https://maven.apache.org/guides/getting-started/index.html
+- Стартовый гайд по мавену - [docs](https://maven.apache.org/guides/getting-started/index.html)
+- Maven build lifecycle - [docs](https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html)
 
 ------------------------------------------------------------------------------------------------------------
 
