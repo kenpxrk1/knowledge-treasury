@@ -32,6 +32,7 @@
 - SQL & Hibernate - [JavaRush](https://javarush.com/quests/QUEST_SQL_HIBERNATE_PUBLIC)
 - Callable Statement & Батчинг запросов - [JavaRush](https://javarush.com/quests/lectures/questhibernate.level08.lecture02)
 - Требования ACID на простом языке - [Habr](https://habr.com/ru/articles/555920/)
+- Что такое транзакция - [Habr](https://habr.com/ru/articles/537594/)
 
 ------------------------------------------------------------------------------------------------------------
   
