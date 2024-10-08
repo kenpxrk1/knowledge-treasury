@@ -22,7 +22,7 @@
 
 - Что такое Spring Framework? От внедрения зависимостей до Web MVC - [Хабр](https://habr.com/ru/articles/490586/)
 - Spring Transaction Management - [Marco Behler](https://www.marcobehler.com/guides/spring-transaction-management-transactional-in-depth)
-
+- Регистрация и авторизация с помощью Spring Security на примере простого приложения - [Хабр](https://habr.com/ru/articles/482552/)
 
 ------------------------------------------------------------------------------------------------------------
 
