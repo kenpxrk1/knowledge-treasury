@@ -6,10 +6,11 @@
 - Java: передача параметров по значению или по ссылке - [Хабр](https://habr.com/ru/amp/publications/551026/)
 - Абстрактные классы и интерфейсы в Java - [Хабр](https://habr.com/ru/companies/otus/articles/707762/)
 - Избавляемся от мусора в Java - [Хабр](https://habr.com/ru/companies/otus/articles/553996/)
-- Пришел, увидел, обобщил: погружаемся в Java Generics [Хабр](https://habr.com/ru/companies/sberbank/articles/416413/)
+- Пришел, увидел, обобщил: погружаемся в Java Generics - [Хабр](https://habr.com/ru/companies/sberbank/articles/416413/)
 - Методы equals & hashCode: практика использования - [JavaRush](https://javarush.com/groups/posts/2179-metodih-equals--hashcode-praktika-ispoljhzovanija)
-- Глубокое погружение в Stream API Java: Понимание и Применение [struchkov.dev](https://struchkov.dev/blog/ru/java-stream-api)
-- Что такое АОП? Основы аспектно-ориентированного программирования[JavaRush](https://javarush.com/groups/posts/3137-chto-takoe-aop-osnovih-aspektno-orientirovannogo-programmirovanija)
+- Глубокое погружение в Stream API Java: Понимание и Применение - [struchkov.dev](https://struchkov.dev/blog/ru/java-stream-api)
+- Что такое АОП? Основы аспектно-ориентированного программирования - [JavaRush](https://javarush.com/groups/posts/3137-chto-takoe-aop-osnovih-aspektno-orientirovannogo-programmirovanija)
+- Java и время: часть вторая - [Habr](https://habr.com/ru/articles/274905/)
 
 ------------------------------------------------------------------------------------------------------------
   
